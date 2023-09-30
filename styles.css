@@ -1,0 +1,29 @@
+html{
+    background-color: aquamarine;
+}
+#pageTitle{
+ font-family: 'Times New Roman', Times, serif;
+ color: aqua;
+ background-color: cornflowerblue;
+ border-radius: 10px;
+ box-shadow: 5px;
+ padding-left: 5px;
+}
+div{
+ background-color: cornflowerblue;
+ border-radius: 10px;
+ box-shadow: 5px;
+ padding-left: 5px;
+}
+#rollTotal{
+ font-family: 'Times New Roman', Times, serif;
+ font-size: larger;
+ color: white;
+}
+button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
